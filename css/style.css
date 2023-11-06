@@ -240,8 +240,9 @@ h6,
 }
 
 .page-header {
-    background: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url(../img/carousel-1.jpg) center center no-repeat;
-    background-size: cover;
+    background: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url(../img/lapangan.jpeg) center center no-repeat;
+    background-size: 100% 700px;
+    object-fit: center;
 }
 
 .breadcrumb-item + .breadcrumb-item::before {
